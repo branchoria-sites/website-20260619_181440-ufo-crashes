@@ -266,6 +266,7 @@ prev_link:
   short_title: Roswell Growth
   heading_title: How Roswell Grew Beyond Its First Records
 date: '2026-06-19 14:49:56 '
+last_modified_at: '2026-06-19 14:49:56 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019_shag_harbour_myth_gr_4cfe34-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019_shag_harbour_myth_gr_4cfe34-Illustration-1.webp

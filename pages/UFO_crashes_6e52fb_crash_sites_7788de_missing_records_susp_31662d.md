@@ -266,6 +266,7 @@ next_link:
   short_title: Proof Chain
   heading_title: What would prove a UFO crash site?
 date: '2026-06-19 14:38:37 '
+last_modified_at: '2026-06-19 14:38:37 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_crash_sites_7788de_missing_records_susp_31662d-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_crash_sites_7788de_missing_records_susp_31662d-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Genetrix
   heading_title: When Spy Balloons Fell Back to Earth
 date: '2026-06-19 14:59:15 '
+last_modified_at: '2026-06-19 14:59:15 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_balloon_trains_wreck_163012-Illustration-1.webp

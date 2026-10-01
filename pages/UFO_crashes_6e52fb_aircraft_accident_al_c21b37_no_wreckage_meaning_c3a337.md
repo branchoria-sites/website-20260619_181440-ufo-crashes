@@ -272,6 +272,7 @@ next_link:
   short_title: Rescue Logic
   heading_title: Why UFO Crash Alarms Start as Rescue Calls
 date: '2026-06-19 17:23:45 '
+last_modified_at: '2026-06-19 17:23:45 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_no_wreckage_meaning_c3a337-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_aircraft_accident_al_c21b37_no_wreckage_meaning_c3a337-Illustration-1.webp

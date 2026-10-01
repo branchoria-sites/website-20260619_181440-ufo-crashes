@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-19 12:21:04'
+last_modified_at: '2026-06-19 12:21:04'
 parent_title: What Search Operations Can Tell US
 parent_permalink: /search-trails/
 parent_nav_short_title: Search Trails

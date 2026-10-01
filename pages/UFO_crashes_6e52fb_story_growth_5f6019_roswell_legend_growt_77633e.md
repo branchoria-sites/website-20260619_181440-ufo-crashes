@@ -272,6 +272,7 @@ next_link:
   short_title: Shag Harbour
   heading_title: How Shag Harbour Outgrew Its Search Trail
 date: '2026-06-19 14:47:53 '
+last_modified_at: '2026-06-19 14:47:53 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019_roswell_legend_growt_77633e-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019_roswell_legend_growt_77633e-Illustration-1.webp

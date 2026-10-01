@@ -272,6 +272,7 @@ next_link:
   short_title: Skip Site
   heading_title: Why the Roswell skip site still matters
 date: '2026-06-19 14:27:40 '
+last_modified_at: '2026-06-19 14:27:40 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_crash_sites_7788de_shag_harbour_memory_b2222f-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_crash_sites_7788de_shag_harbour_memory_b2222f-Illustration-1.webp

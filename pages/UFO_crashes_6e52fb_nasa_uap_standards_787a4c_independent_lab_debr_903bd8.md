@@ -272,6 +272,7 @@ next_link:
   short_title: Metadata Gaps
   heading_title: Why Debris Photos Need More Than Mystery
 date: '2026-06-19 17:09:11 '
+last_modified_at: '2026-06-19 17:09:11 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_independent_lab_debr_903bd8-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_independent_lab_debr_903bd8-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Grusch Claims
   heading_title: Why Grusch's Claims Changed the Debate
 date: '2026-06-19 17:02:29 '
+last_modified_at: '2026-06-19 17:02:29 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_aaro_evidence_test_ca57b8-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_aaro_evidence_test_ca57b8-Illustration-1.webp

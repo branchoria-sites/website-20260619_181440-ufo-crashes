@@ -272,6 +272,7 @@ next_link:
   short_title: Lab Tests
   heading_title: What Would Make Exotic Debris Convincing?
 date: '2026-06-19 17:09:30 '
+last_modified_at: '2026-06-19 17:09:30 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_crash_material_custo_caa6c5-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_crash_material_custo_caa6c5-Illustration-1.webp

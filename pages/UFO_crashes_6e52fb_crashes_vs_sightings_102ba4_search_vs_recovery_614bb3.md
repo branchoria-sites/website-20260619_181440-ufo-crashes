@@ -272,6 +272,7 @@ next_link:
   short_title: Wreckage
   heading_title: When Ordinary Debris Looks Alien
 date: '2026-06-19 17:03:51 '
+last_modified_at: '2026-06-19 17:03:51 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_search_vs_recovery_614bb3-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_search_vs_recovery_614bb3-Illustration-1.webp

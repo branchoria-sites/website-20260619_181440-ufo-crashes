@@ -266,6 +266,7 @@ next_link:
   short_title: Earliest Records
   heading_title: What did the first records actually say?
 date: '2026-06-19 17:50:27 '
+last_modified_at: '2026-06-19 17:50:27 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f_debris_chain_custody_cfde79-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f_debris_chain_custody_cfde79-Illustration-1.webp

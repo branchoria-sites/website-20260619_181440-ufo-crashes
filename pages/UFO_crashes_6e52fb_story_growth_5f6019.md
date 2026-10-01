@@ -440,6 +440,7 @@ next_link:
   short_title: Tourism
   heading_title: How Crash Stories Become Local Legends
 date: '2026-06-19 13:33:50 '
+last_modified_at: '2026-06-19 13:33:50 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019-overview-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019-overview.webp

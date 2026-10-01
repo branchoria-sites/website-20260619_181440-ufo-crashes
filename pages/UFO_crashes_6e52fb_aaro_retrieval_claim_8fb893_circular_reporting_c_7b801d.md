@@ -266,6 +266,7 @@ next_link:
   short_title: Evidence Test
   heading_title: What Would Prove a Hidden Retrieval Program?
 date: '2026-06-19 17:30:55 '
+last_modified_at: '2026-06-19 17:30:55 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_circular_reporting_c_7b801d-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_circular_reporting_c_7b801d-Illustration-1.webp

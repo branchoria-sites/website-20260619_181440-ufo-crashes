@@ -266,6 +266,7 @@ next_link:
   short_title: Kecksburg
   heading_title: How Kecksburg Became a Missing Records Mystery
 date: '2026-06-19 14:42:26 '
+last_modified_at: '2026-06-19 14:42:26 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019_alien_bodies_memory_6a8e1a-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019_alien_bodies_memory_6a8e1a-Illustration-1.webp

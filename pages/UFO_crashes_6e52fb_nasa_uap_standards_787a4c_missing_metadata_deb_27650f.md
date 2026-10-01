@@ -272,6 +272,7 @@ next_link:
   short_title: Sensors
   heading_title: When Instruments Matter More Than Eyewitnesses
 date: '2026-06-19 17:12:22 '
+last_modified_at: '2026-06-19 17:12:22 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_missing_metadata_deb_27650f-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_missing_metadata_deb_27650f-Illustration-1.webp
