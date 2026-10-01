@@ -440,6 +440,7 @@ next_link:
   short_title: Crash Sites
   heading_title: Can a Crash Site Prove the Story?
 date: '2026-06-19 13:35:55 '
+last_modified_at: '2026-06-19 13:35:55 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382-overview-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382-overview.webp

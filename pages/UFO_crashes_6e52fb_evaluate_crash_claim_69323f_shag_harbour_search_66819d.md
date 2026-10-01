@@ -272,6 +272,7 @@ next_link:
   short_title: Ubatuba Test
   heading_title: What did the Ubatuba fragments really prove?
 date: '2026-06-19 17:27:58 '
+last_modified_at: '2026-06-19 17:27:58 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f_shag_harbour_search_66819d-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f_shag_harbour_search_66819d-Illustration-1.webp

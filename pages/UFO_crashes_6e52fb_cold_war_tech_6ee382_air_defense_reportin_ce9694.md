@@ -266,6 +266,7 @@ next_link:
   short_title: Balloon Trains
   heading_title: Why Balloon Wreckage Looked Engineered
 date: '2026-06-19 14:57:53 '
+last_modified_at: '2026-06-19 14:57:53 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_air_defense_reportin_ce9694-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_air_defense_reportin_ce9694-Illustration-1.webp

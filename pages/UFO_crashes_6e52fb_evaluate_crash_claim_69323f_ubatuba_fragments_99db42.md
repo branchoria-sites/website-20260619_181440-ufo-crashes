@@ -272,6 +272,7 @@ next_link:
   short_title: Unidentified
   heading_title: When does unexplained stop short of alien?
 date: '2026-06-19 16:55:56 '
+last_modified_at: '2026-06-19 16:55:56 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f_ubatuba_fragments_99db42-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f_ubatuba_fragments_99db42-Illustration-1.webp

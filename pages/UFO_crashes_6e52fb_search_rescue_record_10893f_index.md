@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-search-rescue/
 description: Focused pages that expand on Search Trails.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: UFO_crashes_6e52fb_search_rescue_record_10893f
 parent_title: Search Trails

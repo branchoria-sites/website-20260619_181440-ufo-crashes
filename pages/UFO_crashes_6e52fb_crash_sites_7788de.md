@@ -440,6 +440,7 @@ next_link:
   short_title: Crashes vs Sightings
   heading_title: Why Crashes Are Different From Sightings
 date: '2026-06-19 13:28:50 '
+last_modified_at: '2026-06-19 13:28:50 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_crash_sites_7788de-overview-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_crash_sites_7788de-overview.webp

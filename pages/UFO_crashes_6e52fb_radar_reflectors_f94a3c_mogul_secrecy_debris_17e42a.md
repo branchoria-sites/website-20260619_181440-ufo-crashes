@@ -272,6 +272,7 @@ next_link:
   short_title: Odd Shapes
   heading_title: Why Radar Targets Look Unlike Aircraft Parts
 date: '2026-06-19 16:42:39 '
+last_modified_at: '2026-06-19 16:42:39 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_radar_reflectors_f94a3c_mogul_secrecy_debris_17e42a-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_radar_reflectors_f94a3c_mogul_secrecy_debris_17e42a-Illustration-1.webp

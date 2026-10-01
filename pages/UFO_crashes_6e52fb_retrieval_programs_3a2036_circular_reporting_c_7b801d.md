@@ -266,6 +266,7 @@ next_link:
   short_title: Grusch Claim
   heading_title: What did Grusch actually prove in public?
 date: '2026-06-19 17:14:39 '
+last_modified_at: '2026-06-19 17:14:39 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_retrieval_programs_3a2036_circular_reporting_c_7b801d-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_retrieval_programs_3a2036_circular_reporting_c_7b801d-Illustration-1.webp

@@ -434,6 +434,7 @@ next_link:
   short_title: Aircraft
   heading_title: When a UFO Crash Starts as an Air Crash
 date: '2026-06-19 14:11:30 '
+last_modified_at: '2026-06-19 14:11:30 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893-overview-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893-overview.webp

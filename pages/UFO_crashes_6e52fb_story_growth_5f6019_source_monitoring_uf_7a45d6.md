@@ -272,6 +272,7 @@ next_link:
   short_title: Missing Files
   heading_title: When Missing Files Become UFO Evidence
 date: '2026-06-19 14:50:24 '
+last_modified_at: '2026-06-19 14:50:24 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019_source_monitoring_uf_7a45d6-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019_source_monitoring_uf_7a45d6-Illustration-1.webp

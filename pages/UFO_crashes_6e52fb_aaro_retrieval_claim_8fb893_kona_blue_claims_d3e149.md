@@ -272,6 +272,7 @@ next_link:
   short_title: Records Trail
   heading_title: Can Archives Settle UFO Crash Claims?
 date: '2026-06-19 15:59:25 '
+last_modified_at: '2026-06-19 15:59:25 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_kona_blue_claims_d3e149-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_aaro_retrieval_claim_8fb893_kona_blue_claims_d3e149-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Recovery Signs
   heading_title: Why Cleanup Teams Looked Suspicious
 date: '2026-06-19 15:02:37 '
+last_modified_at: '2026-06-19 15:02:37 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_nuclear_detection_ge_49f1fa-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_nuclear_detection_ge_49f1fa-Illustration-1.webp

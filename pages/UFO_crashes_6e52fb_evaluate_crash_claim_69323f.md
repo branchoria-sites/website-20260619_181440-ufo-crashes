@@ -440,6 +440,7 @@ next_link:
   short_title: Evidence
   heading_title: What Would Prove a UFO Crash?
 date: '2026-06-19 14:21:42 '
+last_modified_at: '2026-06-19 14:21:42 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f-overview-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f-overview.webp

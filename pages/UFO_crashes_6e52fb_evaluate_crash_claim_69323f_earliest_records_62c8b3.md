@@ -272,6 +272,7 @@ next_link:
   short_title: Prosaic Checks
   heading_title: What ordinary causes should be tested first?
 date: '2026-06-19 16:12:28 '
+last_modified_at: '2026-06-19 16:12:28 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f_earliest_records_62c8b3-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_evaluate_crash_claim_69323f_earliest_records_62c8b3-Illustration-1.webp

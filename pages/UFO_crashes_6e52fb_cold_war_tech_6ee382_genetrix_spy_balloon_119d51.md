@@ -272,6 +272,7 @@ next_link:
   short_title: Nuclear Gear
   heading_title: The Nuclear Secret Behind Strange Debris
 date: '2026-06-19 15:00:09 '
+last_modified_at: '2026-06-19 15:00:09 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_genetrix_spy_balloon_119d51-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_genetrix_spy_balloon_119d51-Illustration-1.webp

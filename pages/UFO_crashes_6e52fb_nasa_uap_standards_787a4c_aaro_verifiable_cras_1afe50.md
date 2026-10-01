@@ -266,6 +266,7 @@ next_link:
   short_title: Baselines
   heading_title: The Ordinary Objects a Crash Claim Must Beat
 date: '2026-06-19 17:05:43 '
+last_modified_at: '2026-06-19 17:05:43 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_aaro_verifiable_cras_1afe50-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_nasa_uap_standards_787a4c_aaro_verifiable_cras_1afe50-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: KONA BLUE
   heading_title: How a paper programme became UFO evidence
 date: '2026-06-19 17:15:35 '
+last_modified_at: '2026-06-19 17:15:35 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_retrieval_programs_3a2036_grusch_missing_proof_26b97f-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_retrieval_programs_3a2036_grusch_missing_proof_26b97f-Illustration-1.webp

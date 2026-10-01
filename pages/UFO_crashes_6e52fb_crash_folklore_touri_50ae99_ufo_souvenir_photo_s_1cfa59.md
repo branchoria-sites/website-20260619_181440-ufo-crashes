@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-19 12:13:24'
+last_modified_at: '2026-06-19 12:13:24'
 parent_title: How Crash Stories Become Local Legends
 parent_permalink: /tourism/
 parent_nav_short_title: Tourism
