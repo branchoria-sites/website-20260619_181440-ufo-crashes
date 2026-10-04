@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-cold-war-tech/
 description: Focused pages that expand on Cold War Tech.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: UFO_crashes_6e52fb_cold_war_tech_6ee382
 parent_title: Cold War Tech
