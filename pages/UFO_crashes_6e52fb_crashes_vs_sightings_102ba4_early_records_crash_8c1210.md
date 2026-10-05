@@ -272,6 +272,7 @@ next_link:
   short_title: Reentries
   heading_title: When Falling Lights Look Like Crashes
 date: '2026-06-19 17:25:56 '
+last_modified_at: '2026-06-19 17:25:56 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_early_records_crash_8c1210-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_early_records_crash_8c1210-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Saucer Hoax
   heading_title: When Police Cordons Met Fake Saucers
 date: '2026-06-19 15:36:59 '
+last_modified_at: '2026-06-19 15:36:59 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_police_reports_7983df_kecksburg_cordon_cla_0bc522-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_police_reports_7983df_kecksburg_cordon_cla_0bc522-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Late Memory
   heading_title: Can Sincere Witnesses Remember the Wrong Source?
 date: '2026-06-19 14:45:55 '
+last_modified_at: '2026-06-19 14:45:55 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019_kecksburg_secrecy_na_8e0516-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_story_growth_5f6019_kecksburg_secrecy_na_8e0516-Illustration-1.webp

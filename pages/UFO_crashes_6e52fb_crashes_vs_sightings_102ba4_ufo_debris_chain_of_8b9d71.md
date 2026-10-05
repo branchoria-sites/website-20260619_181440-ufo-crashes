@@ -272,6 +272,7 @@ next_link:
   short_title: Records
   heading_title: The Early Paper Trail Matters Most
 date: '2026-06-19 17:26:43 '
+last_modified_at: '2026-06-19 17:26:43 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ufo_debris_chain_of_8b9d71-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_crashes_vs_sightings_102ba4_ufo_debris_chain_of_8b9d71-Illustration-1.webp

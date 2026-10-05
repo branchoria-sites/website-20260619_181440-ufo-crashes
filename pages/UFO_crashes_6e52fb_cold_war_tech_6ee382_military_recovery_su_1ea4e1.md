@@ -272,6 +272,7 @@ next_link:
   short_title: Trust Gap
   heading_title: When True Explanations Sounded Like Covers
 date: '2026-06-19 15:01:36 '
+last_modified_at: '2026-06-19 15:01:36 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_cold_war_tech_6ee382_military_recovery_su_1ea4e1-Illustration-1.webp

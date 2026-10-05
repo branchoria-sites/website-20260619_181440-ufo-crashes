@@ -272,6 +272,7 @@ next_link:
   short_title: Kecksburg
   heading_title: Did Kecksburg's Cordon Prove A Recovery?
 date: '2026-06-19 15:35:27 '
+last_modified_at: '2026-06-19 15:35:27 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_police_reports_7983df_first_call_crash_cla_0e986f-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_police_reports_7983df_first_call_crash_cla_0e986f-Illustration-1.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: Missing Parts
   heading_title: What Was Missing From the Crash Site?
 date: '2026-06-19 16:41:04 '
+last_modified_at: '2026-06-19 16:41:04 '
 header:
   og_image: /assets/images/UFO_crashes_6e52fb_radar_reflectors_f94a3c_foil_balsa_strange_d_346159-Illustration-1-social.jpg
   preview_image: /assets/images/UFO_crashes_6e52fb_radar_reflectors_f94a3c_foil_balsa_strange_d_346159-Illustration-1.webp

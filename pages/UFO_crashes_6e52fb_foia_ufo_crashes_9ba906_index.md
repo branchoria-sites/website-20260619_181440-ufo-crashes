@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-crashes-6e52fb-foia-ufo-crashes/
 description: Focused pages that expand on FOIA.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: UFO_crashes_6e52fb_foia_ufo_crashes_9ba906
 parent_title: FOIA
