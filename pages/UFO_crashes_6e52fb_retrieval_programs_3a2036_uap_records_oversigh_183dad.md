@@ -290,7 +290,7 @@ The system creates several layers of accountability:
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
-* Agencies must search their own records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
+* Agencies must search their own records.<span class="citation-chip-wrap">[archives.gov]<span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</span><span class="citation-popover-meta">Published: September 30, 2025</span></span></span>
 * NARA serves as a central repository rather than leaving documents scattered across departments.
 * Decisions to postpone disclosure require formal justification.
 * Congress receives notification when records are withheld under the law's postponement provisions.
@@ -847,7 +847,7 @@ The UAP Records Collection represents one of the most concrete policy responses 
 
 12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link:<a href="https://www.archives.gov/records-mgmt/memos/ac" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/memos/ac</a>  
+   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</p></details>
    Published: September 30, 2025  
 
