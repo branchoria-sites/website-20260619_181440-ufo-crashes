@@ -824,7 +824,7 @@ As a result, KONA BLUE occupies an unusual place in the history of UFO retrieval
 9.<a id="endnote-9"></a>
    Source: en.wikisource.org  
    Title: Volume 1  
-   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified</a>  
+   Link:https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...AARO Investigating Unresolved Historical Nuclear-Related UAP Cases... KONA BLUE: A Proposed...</p></details>
 
 10.<a id="endnote-10"></a>

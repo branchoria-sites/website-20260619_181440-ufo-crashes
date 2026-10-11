@@ -798,7 +798,7 @@ For that reason, the MgZn/Bi specimen is often cited less as evidence for a reco
 9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 ### Additional References
 
