@@ -55,8 +55,8 @@ permalink: /missing-files/
 sidebar_expanded_urls:
 - /ufo-crashes/
 nav_short_title: Missing Files
-title: Do Missing Files Prove a Cover Up?
-title_full: Do Missing Files Prove a Cover Up?
+title: "Do Missing Files Prove a Cover Up? (missing files)"
+title_full: "Do Missing Files Prove a Cover Up? (missing files)"
 display_title_short: Missing Files
 display_title: Missing Files
 heading_title: Do Missing Files Prove a Cover Up?

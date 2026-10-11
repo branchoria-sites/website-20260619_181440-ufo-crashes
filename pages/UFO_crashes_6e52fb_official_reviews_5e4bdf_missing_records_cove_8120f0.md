@@ -27,8 +27,8 @@ sidebar_expanded_urls:
 - /ufo-crashes/
 - /official-reviews/
 nav_short_title: Missing Records
-title: Do Missing Files Prove a Cover Up?
-title_full: Do Missing Files Prove a Cover Up?
+title: "Do Missing Files Prove a Cover Up? (missing records)"
+title_full: "Do Missing Files Prove a Cover Up? (missing records)"
 display_title_short: Missing Records
 display_title: Missing Records
 heading_title: Do Missing Files Prove a Cover Up?
