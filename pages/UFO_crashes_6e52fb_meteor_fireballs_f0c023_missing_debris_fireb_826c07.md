@@ -775,7 +775,6 @@ For that reason, one of the simplest questions in any fireball-linked UFO crash 
 1.<a id="endnote-1"></a>
    Source: ares.jsc.nasa.gov  
    Title: meteorite falls  
-   Link:https://ares.jsc.nasa.gov/meteorite-falls/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite FallsMar 21, 2026 —... fireball and only a few percent of the total mass survives to reach the ground, scattered across a...</p></details>
 
 2.<a id="endnote-2"></a>

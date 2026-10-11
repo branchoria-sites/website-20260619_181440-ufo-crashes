@@ -830,7 +830,6 @@ The broader lesson extends beyond UFOs. Any claim can appear stronger when propo
 8.<a id="endnote-8"></a>
    Source: en.wikisource.org  
    Title: Section 2  
-   Link:https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 9.<a id="endnote-9"></a>

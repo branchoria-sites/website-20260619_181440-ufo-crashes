@@ -847,7 +847,6 @@ The UAP Records Collection represents one of the most concrete policy responses 
 
 12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesAC 04.202510 Oct 2024 — No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all U...</p></details>
    Published: September 30, 2025  
 

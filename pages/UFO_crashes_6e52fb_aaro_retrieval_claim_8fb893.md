@@ -1069,15 +1069,12 @@ AARO therefore occupies an uncomfortable but important place in the UFO crash de
 
 31.<a id="endnote-31"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 32.<a id="endnote-32"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 33.<a id="endnote-33"></a>
    Source: archives.gov  
-   Link:https://www.archives.gov/records-mgmt/memos/ac  
 
 34.<a id="endnote-34"></a>
    Source: docs.house.gov  
